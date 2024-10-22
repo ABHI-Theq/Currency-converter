@@ -1,6 +1,4 @@
 
-Here's an example of a README file for a small currency converter project using React.js. You can modify it based on your specific project details:
-
 Currency Converter
 A simple currency converter application built using React.js. This application allows users to convert between different currencies in real-time using exchange rate data fetched from an API.
 
